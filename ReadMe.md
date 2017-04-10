@@ -32,5 +32,7 @@ bash ./Licenses/Create.sh
 
 Library|License|Copyright
 -------|-------|---------
-[github/linguist](https://github.com/github/linguist)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2017 GitHub, Inc.](https://github.com/github/linguist/blob/master/LICENSE)
+https://www.gnu.org/licenses/license-list.ja.html|[CC-BY-ND-4.0](https://creativecommons.org/licenses/by-nd/4.0/deed.ja)|Copyright © 2014, 2015, 2016 Free Software Foundation, Inc.
+
+改変禁止のため、作成したDBファイルは配布できない。
 
